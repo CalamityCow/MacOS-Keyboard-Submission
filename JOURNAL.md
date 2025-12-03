@@ -162,6 +162,7 @@ Here is my BOM: https://docs.google.com/spreadsheets/d/1dYup_cxLSYAhRu9MLTjsDp3l
 ## 12/2/2025
 CHANGED ALL THE HOLES BACK TO METRIC >:(
 0 80 was WAYY to expensive
+
 <img width="297" height="249" alt="Screenshot 2025-12-02 at 9 46 58 PM" src="https://github.com/user-attachments/assets/b2a93eb7-26ed-4b2a-8d73-c38cfd4428d7" />
 
 I think changing my screws from 0 80 to M3 dropped the BOM cost by 20-30. Also I have random m3 screws at home and robotics lmao.
