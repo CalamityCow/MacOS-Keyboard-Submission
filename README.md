@@ -1,4 +1,4 @@
-[MacOS Keyboard - export_cart_20251203_102105.csv](https://github.com/user-attachments/files/23898477/MacOS.Keyboard.-.export_cart_20251203_102105.csv)# MacOS-Keyboard-Submission
+# MacOS-Keyboard-Submission
 
 This project is just a simple MacOS keyboard, although honestly you can modify any keyboard to beomce a MacOS keyboard by changing its firmware. 
 I started this project because I thought it would be fun to learn how to design a PCB and solder electronic components. While I'm mostly a software guy I've really wanted to learn the electronical side of things for a while now so after discovering blueprint I thought it would be a great idea to get some experience. I used a template from ScottoKeebs, which included the MCU and the power supply prewired.
