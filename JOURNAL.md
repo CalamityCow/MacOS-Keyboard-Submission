@@ -112,3 +112,32 @@ And my schematics:
 
 ## 20.0 hours
 
+# Day ???? + 1: Case design
+## 12/1/2025
+I made some minor changes to the model by making the fill zone look neater and putting components closer to the center of the board.
+
+Making the case was quite easy because I generated my keyboard layout with a DXF file of the outline using these two links:
+https://www.keyboard-layout-editor.com/
+https://kbplate.ai03.com/
+
+All I did was import the DXF as a sketch to Onshape then add 3 layers of offsets.
+
+![1](https://github.com/user-attachments/assets/27b3ea1b-e7b4-420f-b60d-518094840aa0)
+
+Next I extruded the plate and the casings.
+
+![2](https://github.com/user-attachments/assets/2688c241-3504-4d91-9a78-a38104490ffa)
+
+I decided to do a top mount design, and I will use some 3dp spacers to support my the pcb. (I dont think grip strength of the mounts is enough to hold the pcb)
+
+![3](https://github.com/user-attachments/assets/16d63a8c-9900-4d54-82c0-31dd2dad5b04)
+
+Finally on the bottom, I added an angle attachment and rubber stoppers. The idea is that the triangle is able to be changed so that I can 3dp many different angles to see what fits for me.
+
+![4](https://github.com/user-attachments/assets/e14ad69d-61c1-45ec-bfa9-f6acf318c288)
+As for the case itself I want it to be acrylic or aluminum, but I will 3dp the first few iterations with PETG so that I can get a good design first.
+
+![5](https://github.com/user-attachments/assets/39e1924e-6451-4f9a-8671-fd4fddd1996a)
+
+
+# 6.0 hours
