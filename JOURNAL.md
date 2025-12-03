@@ -87,3 +87,28 @@ Though it is a bit time consuming so it will probably take me two more days to f
 Also, I decided to use a rotary encoder instead of a potentiometer for the volume knob as its probably easier to code later.
 
 ## 3.0 hours
+
+# Day ???????: Finished the PCB!
+## 11/30/2025
+This is going to be a long one...
+I did not do a single journal last week as I was on Thanksgiving break. Luckily between my time spent on airplane flights, car rides, and general downtime, I was able to put in an honestly absurd amount of time.
+
+I decided that a screen + hubs is WAY too hard for my first project, so I will do them later as an add on.
+
+For LEDS, I decided to switch from WS2812B to sk6812mini e because they are reverse mounted. Also I switched my diode placements to the top of the switches to allow for more space on my LED traces.
+
+Speaking of LED traces, I must have messed this part up at least 3 times. First, I used the wrong footprint, then I accidently routed them all in parallel, before finally routing them together correctly.
+
+Enough yapping here is my finished PCB:
+
+![11](https://github.com/user-attachments/assets/72692c74-7883-4975-af0e-e6e49a6abacf)
+![22](https://github.com/user-attachments/assets/8ed80b0f-74eb-44f2-821b-a5d6bce7bef4)
+![33](https://github.com/user-attachments/assets/64a7cf29-b520-4ea7-81ac-5aee31389391)
+
+And my schematics:
+
+<img width="944" height="663" alt="44" src="https://github.com/user-attachments/assets/a54a2f0a-b5a4-4997-b2eb-cbf8d766b1d5" />
+<img width="841" height="368" alt="55" src="https://github.com/user-attachments/assets/f3acc254-cc69-4e64-8445-5142664351d8" />
+
+## 20.0 hours
+
