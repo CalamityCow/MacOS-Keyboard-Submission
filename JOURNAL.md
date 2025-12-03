@@ -157,3 +157,14 @@ Finally I added the step file of my PCB to make sure everything will fit togethe
 Here is my BOM: https://docs.google.com/spreadsheets/d/1dYup_cxLSYAhRu9MLTjsDp3llwcmy9G50tkykbGbxao/edit?gid=810680966#gid=810680966
 
 ## 2.0 hours
+
+# Quick Update
+## 12/2/2025
+CHANGED ALL THE HOLES BACK TO METRIC >:(
+0 80 was WAYY to expensive
+<img width="297" height="249" alt="Screenshot 2025-12-02 at 9 46 58 PM" src="https://github.com/user-attachments/assets/b2a93eb7-26ed-4b2a-8d73-c38cfd4428d7" />
+
+I think changing my screws from 0 80 to M3 dropped the BOM cost by 20-30. Also I have random m3 screws at home and robotics lmao.
+# 1.0 hour
+
+As a quick sidenote I didn't realize I had to add a jornual markdown so as I was copying my jornual from the Blueprint website too here, I realize that I sound progressively more insane in each entry.
