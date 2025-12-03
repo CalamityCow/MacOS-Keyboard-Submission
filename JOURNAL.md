@@ -49,10 +49,8 @@ Keyboard matrix
 
 
 LED panel
+
 <img width="313" height="233" alt="Screenshot 2025-11-24 at 12 14 51 AM" src="https://github.com/user-attachments/assets/503b3c75-35be-44a5-9004-48d9811625ee" />
-
-<img width="388" height="419" alt="Screenshot 2025-11-24 at 12 15 19 AM" src="https://github.com/user-attachments/assets/4d6458fd-3cda-4ddd-a2f9-0bac59c75d2b" />
-
 
 <img width="717" height="331" alt="Screenshot 2025-11-24 at 12 15 04 AM" src="https://github.com/user-attachments/assets/6fd4f486-3f05-4f80-9922-b2d06d1e448c" />
 
@@ -66,9 +64,6 @@ After I used my keyboard layout to add the keys to the PCB
 ![Screenshot 2025-11-24 at 12](https://github.com/user-attachments/assets/e18ffa6e-4fdf-4e9a-80e0-a74a2a97d7fe)
 
 
-Here is the power supply and MCU
-
-<img width="211" height="468" alt="Screenshot 2025-11-24 at 12 17 15 AM" src="https://github.com/user-attachments/assets/1ae90e0a-7414-400c-beea-a2f6a8e864ac" />
 
 
 Since the LCD screen is hooked up to a separate microcontroller, I think I will add it later as it is easy and modular to add.
