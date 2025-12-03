@@ -1,4 +1,4 @@
-# MacOS-Keyboard-Submission
+[MacOS Keyboard - export_cart_20251203_102105.csv](https://github.com/user-attachments/files/23898477/MacOS.Keyboard.-.export_cart_20251203_102105.csv)# MacOS-Keyboard-Submission
 
 This project is just a simple MacOS keyboard, although honestly you can modify any keyboard to beomce a MacOS keyboard by changing its firmware. 
 I started this project because I thought it would be fun to learn how to design a PCB and solder electronic components. While I'm mostly a software guy I've really wanted to learn the electronical side of things for a while now so after discovering blueprint I thought it would be a great idea to get some experience. I used a template from ScottoKeebs, which included the MCU and the power supply prewired.
@@ -28,8 +28,7 @@ Onshape link: https://cad.onshape.com/documents/4c8306176f584344784f98ef/w/69e28
 # Bom
 BOM link: https://docs.google.com/spreadsheets/d/1dYup_cxLSYAhRu9MLTjsDp3llwcmy9G50tkykbGbxao/edit?gid=810680966#gid=810680966
 
-[MacOS Keyboard - export_cart_20251203_102105.csv](https://github.com/user-attachments/files/23898419/MacOS.Keyboard.-.export_cart_20251203_102105.csv)
-LCSC Items,,,,,,,,,,,,
+[Uploading MacOS KeyboardLCSC Items,,,,,,,,,,,,
 Index,LCSC#,MPN,Manufacturer,Package,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
 1,C23733,CL05A475MP5NRNC,Samsung Electro-Mechanics,402,10V 4.7uF X5R ±20% 0402 Ceramic Capacitors RoHS,yes,50,50,50,0.0048,0.24,https://www.lcsc.com/product-detail/C23733.html
 2,C2827654,USBLC6-2SC6,TECH PUBLIC,SOT-23-6,6A 12V 150W 6V Unidirectional 5V SOT-23-6 TVS Diodes RoHS,yes,10,10,10,0.0384,0.38,https://www.lcsc.com/product-detail/C2827654.html
@@ -78,4 +77,4 @@ Shipping and Taxes,,,,,,0,,,,,,
 Line Total,,,,,,62.9,,,,,,
 ,,,,,,,,,,,,
 Grand Total,,,,,,180.07,,,,,,
-Grand Total after 7.25% tax estimate,,,,,,193.125075,,,,,,
+Grand Total after 7.25% tax estimate,,,,,,193.125075,,,,,, - export_cart_20251203_102105.csv…]()
