@@ -69,3 +69,21 @@ After I used my keyboard layout to add the keys to the PCB
 Since the LCD screen is hooked up to a separate microcontroller, I think I will add it later as it is easy and modular to add.
 
 ## 9.0 hours
+
+# Day 4/5: Routing the PCB
+## 11/25/2025
+I went on a flight so I couldn't really work on the project the left few days but I'm finally back. Today I started hooking up the switches on the keyboard and adding the LEDS in.
+
+![1](https://github.com/user-attachments/assets/19dfa811-1722-4652-89b5-959f3ab7ff87)
+
+My matrix routing is quite simple, but I took a bit of time to figure out the routing for LEDS as I had to try my best to avoid EMI. I think that this configuration for LEDS will work:
+
+![2](https://github.com/user-attachments/assets/ca526f00-74a3-420b-a45a-306f0abe86e2)
+
+Though it is a bit time consuming so it will probably take me two more days to finish the routing.
+
+<img width="778" height="314" alt="3" src="https://github.com/user-attachments/assets/4997c56b-10bf-4854-9aa0-ad3b1434c879" />
+
+Also, I decided to use a rotary encoder instead of a potentiometer for the volume knob as its probably easier to code later.
+
+## 3.0 hours
