@@ -1,9 +1,9 @@
 # Total Time: 46.5 hours
 
 # Day 1: Brainstorming and first concepts.
-![Screenshot 2025-11-21 at 11.18.39 PM](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMwOTksInB1ciI6ImJsb2JfaWQifX0=--fc830761d8e7ad7344aaa39e088bb999094e2980/Screenshot%202025-11-21%20at%2011.18.39%E2%80%AFPM.png)
-
+## 11/21/2025
 Here is my starting idea:
+<img width="819" height="365" alt="Screenshot 2025-12-02 at 10 30 39 PM" src="https://github.com/user-attachments/assets/9f7092bd-9d97-49eb-8789-fcaa36e199e7" />
 
 - 100% mechanical keyboard
 - Hot swappable
@@ -14,3 +14,6 @@ Here is my starting idea:
 - 1 ethernet port
 
 I'd like to have an aluminum case for my keyboard but since it will likely have to be custom, I'm not too sure how to machine one. (Also it seems that nobody sells 100% shells anyways)
+
+## 1 hour
+
