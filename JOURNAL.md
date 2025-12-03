@@ -135,9 +135,25 @@ I decided to do a top mount design, and I will use some 3dp spacers to support m
 Finally on the bottom, I added an angle attachment and rubber stoppers. The idea is that the triangle is able to be changed so that I can 3dp many different angles to see what fits for me.
 
 ![4](https://github.com/user-attachments/assets/e14ad69d-61c1-45ec-bfa9-f6acf318c288)
+
 As for the case itself I want it to be acrylic or aluminum, but I will 3dp the first few iterations with PETG so that I can get a good design first.
 
 ![5](https://github.com/user-attachments/assets/39e1924e-6451-4f9a-8671-fd4fddd1996a)
 
-
 # 6.0 hours
+
+# Finishing details on case + BOM
+## 12/2/2025
+Added a usb cutout for a usb wire.
+<img width="570" height="339" alt="1" src="https://github.com/user-attachments/assets/a416a079-b0c3-48ee-b319-90594f622773" />
+
+
+I also inserted all the needed bolts and nuts. Most of my holes will be tapped and then screwed together with a 0 80 screw. (I hate metric)
+
+Finally I added the step file of my PCB to make sure everything will fit together.
+<img width="1256" height="749" alt="2" src="https://github.com/user-attachments/assets/2e543afe-edb2-4bc2-aad6-50b105b0731d" />
+
+
+Here is my BOM: https://docs.google.com/spreadsheets/d/1dYup_cxLSYAhRu9MLTjsDp3llwcmy9G50tkykbGbxao/edit?gid=810680966#gid=810680966
+
+## 2.0 hours
